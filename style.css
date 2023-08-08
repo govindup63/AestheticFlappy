@@ -30,7 +30,7 @@ h1{
 }
 
 #obstacle1{
-    background-color: azure;
+    background-color: white;
     height: 160px;
     width: 45px;
     position: absolute;
@@ -38,7 +38,7 @@ h1{
     left: var(--left1);
 }
 #obstacle2{
-    background-color: azure;
+    background-color: white;
     height: 160px;
     width: 45px;
     position: absolute;
@@ -46,15 +46,15 @@ h1{
     left: var(--left1);
 }
 #obstacle3{
-    background-color: azure;
-    height: 117px;
+    background-color: white;
+    height: 99px;
     width: 45px;
     position: absolute;
     top: 112.5px;
     left: var(--left2);
 }
 #obstacle4{
-    background-color: azure;
+    background-color: white;
     height: 226px;
     width: 45px;
     position: absolute;
@@ -62,15 +62,15 @@ h1{
     left: var(--left2);
 }
 #obstacle5{
-    background-color: azure;
-    height: 180px;
+    background-color: white;
+    height: 185px;
     width: 45px;
     position: absolute;
     top: 112px;
     left: var(--left3);
 }
 #obstacle6{
-    background-color: azure;
+    background-color: white;
     height: 160px;
     width: 45px;
     position: absolute;
@@ -78,23 +78,23 @@ h1{
     left: var(--left3);
 }
 #obstacle7{
-    background-color: azure;
-    height: 140px;
+    background-color: white;
+    height: 120px;
     width: 45px;
     position: absolute;
     top: 112px;
     left: var(--left4);
 }
 #obstacle8{
-    background-color: azure;
-    height: 200px;
+    background-color: white;
+    height: 190px;
     width: 45px;
     position: absolute;
-    top:400px;
+    top: 410px;
     left: var(--left4);
 }
 .line{
-    background-color: azure;
+    background-color: white;
     height: 12px;
     width: 100%;
     position: absolute;
