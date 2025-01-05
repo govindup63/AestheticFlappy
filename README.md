@@ -1,7 +1,7 @@
 # AestheticFlappy
 a simple black and white flappy bird game
 
-##Gameplay
+## Gameplay
 
 
 
