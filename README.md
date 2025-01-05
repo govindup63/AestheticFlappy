@@ -80,7 +80,7 @@ https://github.com/user-attachments/assets/32071e0a-0a3b-4537-84c2-3362d64ccfe4
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/flappy-bird-game.git  
+   git clone https://github.com/govindup63/flappy-bird-game.git  
    ```  
 
 2. Open the project directory:  
